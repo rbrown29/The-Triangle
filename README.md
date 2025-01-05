@@ -3,6 +3,7 @@
 This project visualizes the mysterious incidents and locations in the Bermuda Triangle using **React** and **Mapbox GL JS**. The application features an interactive map and story panel that provide detailed information about events in the triangle's history.
 
 ---
+
 ### Live Site: [Bermuda Triangle(Devils Triangle)](https://devilstriangle.netlify.app/)
 
 ---
@@ -79,20 +80,21 @@ Add new incidents to the `incidents.js` file in the `src/` directory.
 
 ```javascript
 
-        {
-            type: "Feature",
-            properties: {
-                name: "New Incident",
-                date: "January 1, 2023",
-                description: "Description of the new incident.",
-            },
-            geometry: {
-                type: "Point",
-                coordinates: [-80.0, 25.0],
-            },
-        }
+    {
+        type: "Feature",
+        properties: {
+            name: "New Incident",
+            date: "January 1, 2023",
+            description: "Description of the new incident.",
+        },
+        geometry: {
+            type: "Point",
+            coordinates: [-80.0, 25.0],
+        },
+    }
 
 ```
+
 ### File Structure
 
 ```bash
@@ -111,18 +113,11 @@ src/
 - Vite: A fast, modern build tool that supports React and ES modules.
 - GeoJSON: A format for encoding a variety of geographic data structures.
 
-### Video 
-
-
-
+### Video
 
 https://github.com/user-attachments/assets/5effd17b-87b3-486b-a6ea-eccabf667702
-
-
 
 ---
 
 [<img src="https://img.youtube.com/vi/AgMcqNnqatw/0.jpg" width="1050" height="600"
 />](https://www.youtube.com/embed/AgMcqNnqatw)
-
-
