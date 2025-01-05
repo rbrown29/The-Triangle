@@ -4,7 +4,8 @@ This project visualizes the mysterious incidents and locations in the Bermuda Tr
 
 ---
 
-### Live Site: [Bermuda Triangle(Devils Triangle)](https://devilstriangle.netlify.app/)
+### Live Site Desktop only: 
+[Bermuda Triangle(Devils Triangle)](https://devilstriangle.netlify.app/)
 
 ---
 
