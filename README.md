@@ -113,10 +113,16 @@ src/
 
 ### Video 
 
-[![Watch the video](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsm.mashable.com%2Fmashable_me%2Fphoto%2Fdefault%2Fbermuda-triangle_jnkb.jpg&f=1&nofb=1&ipt=88f14d00f77a63f5736f95b328caa7fa39804311b7ee2fb03c621dde6eecd806&ipo=images)](public/BermudaTriangle.mp4)
+
+
+
+https://github.com/user-attachments/assets/5effd17b-87b3-486b-a6ea-eccabf667702
+
 
 
 ---
 
-[![Bermuda Triangle](https://img.youtube.com/vi/AgMcqNnqatw/0.jpg)](https://www.youtube.com/watch?v=AgMcqNnqatw)
+[<img src="https://img.youtube.com/vi/AgMcqNnqatw/0.jpg" width="1050" height="600"
+/>](https://www.youtube.com/embed/AgMcqNnqatw)
+
 
