@@ -99,11 +99,11 @@ Add new incidents to the `incidents.js` file in the `src/` directory.
 
 ```bash
 src/
-├── App.js                 # Main application component.
-├── MapComponent.js        # Handles Mapbox interactions and layers.
-├── StoryPanel.js          # Displays a list of stories and handles user
-├── incidents.js           # GeoJSON data of incidents.
-├── App.css                # Global styles for the app.
+├── App.jsx                 # Main application component.
+├── MapComponent.jsx        # Handles Mapbox interactions and layers.
+├── StoryPanel.jsx          # Displays a list of stories and handles user
+├── incidents.js            # GeoJSON data of incidents.
+├── App.css                 # Global styles for the app.
 ```
 
 ### Technologies used
